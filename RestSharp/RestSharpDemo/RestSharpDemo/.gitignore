@@ -19,16 +19,15 @@
 **/.idea/modules.xml
 **/.idea/vcs.xml
 **/.idea/workspace.xml
-**../../../.DS_Store
-**../../../CsharpSessions (new commits, untracked content)
-**../RestSharpDemo.sln.DotSettings.user
+**.DS_Store
+**RestSharpDemo.sln.DotSettings.user
 **RestSharpDemo.csproj
-**bin/Debug/RestSharpDemo.dll
-**bin/Debug/RestSharpDemo.pdb
-**obj/Debug/RestSharpDemo.csproj.CoreCompileInputs.cache
-**obj/Debug/RestSharpDemo.csprojAssemblyReference.cache
-**obj/Debug/RestSharpDemo.dll
-**obj/Debug/RestSharpDemo.pdb
+**RestSharpDemo.dll
+**RestSharpDemo.pdb
+**RestSharpDemo.csproj.CoreCompileInputs.cache
+**RestSharpDemo.csprojAssemblyReference.cache
+**RestSharpDemo.dll
+**RestSharpDemo.pdb
 
 
 # Rider
