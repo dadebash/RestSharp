@@ -19,13 +19,30 @@
 **/.idea/modules.xml
 **/.idea/vcs.xml
 **/.idea/workspace.xml
+**../../../.DS_Store
+**../../../CsharpSessions (new commits, untracked content)
+**../RestSharpDemo.sln.DotSettings.user
+**RestSharpDemo.csproj
+**bin/Debug/RestSharpDemo.dll
+**bin/Debug/RestSharpDemo.pdb
+**obj/Debug/RestSharpDemo.csproj.CoreCompileInputs.cache
+**obj/Debug/RestSharpDemo.csprojAssemblyReference.cache
+**obj/Debug/RestSharpDemo.dll
+**obj/Debug/RestSharpDemo.pdb
+
 
 # Rider
 # Rider auto-generates .iml files, and contentModel.xml
 **/.idea/**/*.iml
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
-
+**../../.DS_Store
+**../.DS_Store
+**../.idea/RestSharpDemo.iml
+**../.idea/modules.xml
+**../.idea/vcs.xml
+**../.idea/workspace.xml
+**.DS_Store
 *.suo
 *.user
 .vs/
@@ -37,3 +54,4 @@ _UpgradeReport_Files/
 Thumbs.db
 Desktop.ini
 .DS_Stores
+
