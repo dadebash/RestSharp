@@ -1,56 +1,8 @@
-# Common IntelliJ Platform excludes
-
-# User specific
-**/.idea/**/workspace.xml
-**/.idea/**/tasks.xml
-**/.idea/shelf/*
-**/.idea/dictionaries
-**/.idea/httpRequests/
-.idea/
-# Sensitive or high-churn files
-**/.idea/**/dataSources/
-**/.idea/**/dataSources.ids
-**/.idea/**/dataSources.xml
-**/.idea/**/dataSources.local.xml
-**/.idea/**/sqlDataSources.xml
-**/.idea/**/dynamic.xml
-**/../.DS_Store
-**/.idea/RestSharpDemo.iml
-**/.idea/modules.xml
-**/.idea/vcs.xml
-**/.idea/workspace.xml
 **.DS_Store
 **RestSharpDemo.sln.DotSettings.user
-**RestSharpDemo.csproj
-**RestSharpDemo.dll
-**RestSharpDemo.pdb
-**RestSharpDemo.csproj.CoreCompileInputs.cache
-**RestSharpDemo.csprojAssemblyReference.cache
-**RestSharpDemo.dll
-**RestSharpDemo.pdb
-
-
-# Rider
-# Rider auto-generates .iml files, and contentModel.xml
-**/.idea/**/*.iml
-**/.idea/**/contentModel.xml
-**/.idea/**/modules.xml
-**../../.DS_Store
-**../.DS_Store
-**../.idea/RestSharpDemo.iml
-**../.idea/modules.xml
-**../.idea/vcs.xml
-**../.idea/workspace.xml
-**.DS_Store
-*.suo
-*.user
-.vs/
-[Bb]in/
-[Oo]bj/
-_UpgradeReport_Files/
-[Pp]ackages/
-
-Thumbs.db
-Desktop.ini
-.DS_Stores
-
+**/Debug/RestSharpDemo.dll
+**/Debug/RestSharpDemo.pdb
+**/Debug/RestSharpDemo.csproj.CoreCompileInputs.cache
+**/Debug/RestSharpDemo.csprojAssemblyReference.cache
+**/Debug/RestSharpDemo.dll
+**/RestSharpDemo.pdb
