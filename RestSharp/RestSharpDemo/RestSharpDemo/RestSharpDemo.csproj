@@ -51,8 +51,16 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Model\Location.cs" />
+        <Compile Include="Model\places.cs" />
+        <Compile Include="Model\Users.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="Tests\Assignment.cs" />
+        <Compile Include="Tests\ExamplePostMethod.cs" />
         <Compile Include="Tests\Tests.cs" />
+        <Compile Include="Tests\TestsWithData.cs" />
+        <Compile Include="Tests\verifyTest.cs" />
+        <Compile Include="Utilities\Helpers.cs" />
     </ItemGroup>
     <ItemGroup>
       <None Include="packages.config" />
